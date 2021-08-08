@@ -13,6 +13,8 @@
 		5D5CA59B26BFAB0900E5C1AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D5CA59926BFAB0900E5C1AF /* Main.storyboard */; };
 		5D5CA59D26BFAB0D00E5C1AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5D5CA59C26BFAB0D00E5C1AF /* Assets.xcassets */; };
 		5D5CA5A026BFAB0D00E5C1AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D5CA59E26BFAB0D00E5C1AF /* LaunchScreen.storyboard */; };
+		5D5CA5A826BFB24800E5C1AF /* AskSoethingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5CA5A726BFB24800E5C1AF /* AskSoethingViewController.swift */; };
+		5D5CA5AA26BFB29F00E5C1AF /* DrawStickViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D5CA5A926BFB29F00E5C1AF /* DrawStickViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		5D5CA59C26BFAB0D00E5C1AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D5CA59F26BFAB0D00E5C1AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D5CA5A126BFAB0D00E5C1AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D5CA5A726BFB24800E5C1AF /* AskSoethingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AskSoethingViewController.swift; sourceTree = "<group>"; };
+		5D5CA5A926BFB29F00E5C1AF /* DrawStickViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawStickViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				5D5CA59526BFAB0900E5C1AF /* SceneDelegate.swift */,
 				5D5CA59726BFAB0900E5C1AF /* ViewController.swift */,
 				5D5CA59926BFAB0900E5C1AF /* Main.storyboard */,
+				5D5CA5A726BFB24800E5C1AF /* AskSoethingViewController.swift */,
+				5D5CA5A926BFB29F00E5C1AF /* DrawStickViewController.swift */,
 				5D5CA59C26BFAB0D00E5C1AF /* Assets.xcassets */,
 				5D5CA59E26BFAB0D00E5C1AF /* LaunchScreen.storyboard */,
 				5D5CA5A126BFAB0D00E5C1AF /* Info.plist */,
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D5CA59826BFAB0900E5C1AF /* ViewController.swift in Sources */,
+				5D5CA5A826BFB24800E5C1AF /* AskSoethingViewController.swift in Sources */,
+				5D5CA5AA26BFB29F00E5C1AF /* DrawStickViewController.swift in Sources */,
 				5D5CA59426BFAB0900E5C1AF /* AppDelegate.swift in Sources */,
 				5D5CA59626BFAB0900E5C1AF /* SceneDelegate.swift in Sources */,
 			);
